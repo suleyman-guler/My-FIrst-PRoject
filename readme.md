@@ -5,4 +5,4 @@ build
 *.project
 bin/*
 .vscode/*
-https://app.travis-ci.com/suleyman-guler/My-FIrst-PRoject.svg?branch=main
+[![Build Status](https://app.travis-ci.com/suleyman-guler/My-FIrst-PRoject.svg?branch=main)](https://app.travis-ci.com/suleyman-guler/My-FIrst-PRoject)
